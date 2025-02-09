@@ -1,10 +1,15 @@
 # 💫 About Me:
-Currently Working On: AI-driven Data Science projects (ML, MLOps, Cloud Technologies).
-Collaboration Interests: AI, Data Analytics, Big Data for meaningful insights.
-Seeking Help With: MLOps, scalable ML deployment, AI model fine-tuning.
-Currently Learning: Google Cloud Data Engineering, LLM-based AI, Deep Learning optimization.
-Expertise: Data Science, ML, Cloud Computing (GCP, AWS, IBM), Data Visualization, ML Pipelines.
-Fun Fact: Hackathon enthusiast—worked on forest fire prediction & AI chatbots. 🚀
+🌱 <b>Currently Working On:</b> AI-driven Data Science projects (ML, MLOps, Cloud Technologies).<br><br>  
+🤝 <b>Looking to Collaborate On:</b> AI, Data Analytics, Big Data for meaningful insights.<br><br>  
+🛠️ <b>Looking for Help With:</b> MLOps, scalable ML deployment, AI model fine-tuning.<br><br>  
+📚 <b>Currently Learning:</b> Google Cloud Data Engineering, LLM-based AI, Deep Learning optimization.<br><br>  
+💬 <b>Ask Me About:</b><br>  
+🔹 Data Science & Machine Learning<br>  
+🔹 Cloud Computing (GCP, AWS, IBM Cloud)<br>  
+🔹 Data Visualization & Analytics<br>  
+🔹 End-to-End ML Pipelines<br><br>  
+🎉 <b>Fun Fact:</b> Hackathon enthusiast—worked on forest fire prediction & AI chatbots. 🚀  
+
 
 
 ## 🌐 Socials:
