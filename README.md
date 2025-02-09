@@ -1,10 +1,12 @@
 # 💫 About Me:
-🌱 <b>Working On:</b> AI, ML, MLOps, Cloud Tech.<br>  
-🤝 <b>Collab On:</b> AI, Data Analytics, Big Data.<br>  
-🛠️ <b>Need Help With:</b> MLOps, ML deployment, AI fine-tuning.<br>  
-📚 <b>Learning:</b> GCP Data Engineering, LLMs, Deep Learning.<br>  
-💬 <b>Ask Me:</b> ML, Cloud (GCP, AWS, IBM), Data Viz, ML Pipelines.<br>  
-🎉 <b>Fun Fact:</b> Hackathon enthusiast—AI & ML projects. 🚀  
+<ul>
+  <li>🌱 <b>Working On:</b> AI, ML, MLOps, Cloud Tech.</li>
+  <li>🤝 <b>Collab On:</b> AI, Data Analytics, Big Data.</li>
+  <li>🛠️ <b>Need Help With:</b> MLOps, ML deployment, AI fine-tuning.</li>
+  <li>📚 <b>Learning:</b> GCP Data Engineering, LLMs, Deep Learning.</li>
+  <li>💬 <b>Ask Me:</b> ML, Cloud (GCP, AWS, IBM), Data Viz, ML Pipelines.</li>
+  <li>🎉 <b>Fun Fact:</b> Hackathon enthusiast—AI & ML projects. 🚀</li>
+</ul><br>
 <b>Portfolio:</b> <a href="https://anjha1.github.io/portfolio-Home/" target="_blank">Visit Here</a><br><br>  
 
 
