@@ -7,7 +7,9 @@
   <li>💬 <b>Ask Me:</b> ML, Cloud (GCP, AWS, IBM), Data Viz, ML Pipelines.</li>
   <li>🎉 <b>Fun Fact:</b> Hackathon enthusiast—AI & ML projects. 🚀</li>
 </ul><br>
-<b>Portfolio:</b> <a href="https://anjha1.github.io/portfolio-Home/" target="_blank">Visit Here</a><br><br>  
+<b>Linkedin:</b> <a href="https://www.linkedin.com/in/achhuta-nand-jha-2b10a5248/" target="_blank">Visit Here</a><br>
+<b>Portfolio:</b> <a href="https://anjha1.github.io/portfolio-Home/" target="_blank">Visit Here</a><br>
+<b>Leetcode:</b> <a href="https://leetcode.com/u/anjha1/" target="_blank">Visit Here</a><br><br> 
 
 
 
