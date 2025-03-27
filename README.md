@@ -13,7 +13,7 @@
 
 
 
-
+![Visitor Count](https://profile-counter.glitch.me/anjha1/count.svg)
 
 
 # 💻 Tech Stack:
